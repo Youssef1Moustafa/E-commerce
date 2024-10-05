@@ -1,3 +1,4 @@
+
 Order Status Prediction App
 This is a Streamlit-based web application that predicts the order status (e.g., delivered, shipped) using a machine learning model. The model takes several features such as customer state, city, product category, and purchase details to provide predictions.
 
